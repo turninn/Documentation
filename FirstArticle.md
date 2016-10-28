@@ -1,3 +1,7 @@
+---
+title: First article header
+---
+
 # H1
 ## H2
 ### H3
